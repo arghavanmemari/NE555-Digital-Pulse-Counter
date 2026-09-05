@@ -100,4 +100,4 @@ The Proteus simulation file and demonstration video are available in this reposi
 # Author
 
 - Arghavan Memari
-- Erfan Faghihi
+- Erfan Feghhi
